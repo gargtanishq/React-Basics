@@ -1,0 +1,20 @@
+.content{
+    justify-content: space-between;
+    width: 8rem;
+    display: flex;
+    align-items: center;
+}
+.item{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin: .5rem;
+}
+.itemList{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background-color: azure;
+    height: calc(40% - 4rem);
+    margin: 2rem;
+}

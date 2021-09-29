@@ -1,0 +1,28 @@
+.empContainer{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: aliceblue;
+    height: calc(60% - 4rem);
+    margin: 2rem;
+}
+
+#addEmp{
+    margin-bottom: 2rem;
+}
+
+.form{
+    width: 100%;
+}
+
+.fields{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input[type=text]{
+margin: 0 .2rem;
+}

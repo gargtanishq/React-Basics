@@ -1,0 +1,9 @@
+.aside{
+    width: 20%;
+    background: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    height: 100%;
+
+}
